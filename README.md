@@ -1,0 +1,1 @@
+Repositório para aquivar os exercicios que irei fazer ao longo da minha faculdade
