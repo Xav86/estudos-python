@@ -1,0 +1,9 @@
+2) A descrição narrativa é uma forma de representação dos algoritmos expressada 
+diretamente em linguagem natural. Com base nesta afirmação, construa uma sequência 
+lógica para a situação apresentada a seguir:
+James Bond se meteu numa tremenda enrascada: está em uma fonte, na qual está armada 
+uma bomba que explodirá em alguns minutos. Se ele tentar sair da fonte, tudo vai pelos 
+ares. Mas ele tem uma chance: conectada à bomba existe uma balança, e esta balança 
+desarma a bomba quando se põem exatamente 4 litros de água sobre ela. James Bond
+tem 2 recipientes: um com capacidade para 3 litros e outro com capacidade para 5 litros, 
+como ele deve fazer para sair vivo dessa?

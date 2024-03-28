@@ -1,0 +1,3 @@
+9) Desenvolva um script em linguagem Python que leia dois valores numéricos inteiros 
+para duas variáveis e que troque o conteúdo dessas variáveis, visualizando o valor das 
+mesmas antes e depois da troca.

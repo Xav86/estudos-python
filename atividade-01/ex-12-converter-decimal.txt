@@ -1,0 +1,2 @@
+12) Fazer um script em linguagem Python que solicita um número decimal e imprime o 
+correspondente em hexa, binário e octal.

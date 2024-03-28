@@ -1,0 +1,1 @@
+18) Elabore um script em linguagem Python que leia três números e mostre o maior deles.

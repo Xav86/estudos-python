@@ -1,0 +1,1 @@
+13) Faça um script em linguagem Python que converta polegadas para milímetros;
