@@ -5,6 +5,6 @@ aqui”. Se apenas uma das etiquetas diz a verdade, então, a caixa em que está
 e a caixa com a etiqueta que diz a verdade são, respectivamente: 
 a) ( ) cinza e cinza. 
 b) ( ) cinza e azul. 
-c) ( ) azul e branca. 
+c) (X) azul e branca. 
 d) ( ) azul e cinza. 
 e) ( ) branca e azul.

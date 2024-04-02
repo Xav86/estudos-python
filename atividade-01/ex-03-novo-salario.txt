@@ -16,4 +16,4 @@ verdadeiro ou falso:
 O comando na linha 7 faz aumentar o valor da variável salário em 7,5%. Esse comando, 
 contudo, não poderá ser implementado da forma apresentada, uma vez que não é possível 
 atribuir valor à variável salário, pois ela já está sendo utilizada no cálculo.
-( ) Verdadeiro ( ) Falso
+( ) Verdadeiro (X) Falso
