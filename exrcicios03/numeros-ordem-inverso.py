@@ -10,7 +10,7 @@ for i in range(5):
     print(f"{lista[i]} - {i}")
 
 print("========== ORDEM REVERSA ===========")
-iml
+
 tam = len(lista)
 i = tam -1
 while i != 0-1:
