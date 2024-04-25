@@ -13,3 +13,8 @@ media = soma/3
 print(f"Menor nota: {min(menor)}")
 print(f"Maior nota: {max(maior)}")
 print(f"média {media:.2}")
+
+notas.sort()
+print(notas)
+notas.sort(reverse=True)
+print(notas)
